@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kirtick28/QR-Generator/static/css/main.dd756404.css",
+    "main.js": "/kirtick28/QR-Generator/static/js/main.f113f84d.js",
+    "static/js/453.c89cfa50.chunk.js": "/kirtick28/QR-Generator/static/js/453.c89cfa50.chunk.js",
+    "index.html": "/kirtick28/QR-Generator/index.html",
+    "main.dd756404.css.map": "/kirtick28/QR-Generator/static/css/main.dd756404.css.map",
+    "main.f113f84d.js.map": "/kirtick28/QR-Generator/static/js/main.f113f84d.js.map",
+    "453.c89cfa50.chunk.js.map": "/kirtick28/QR-Generator/static/js/453.c89cfa50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd756404.css",
+    "static/js/main.f113f84d.js"
+  ]
+}
